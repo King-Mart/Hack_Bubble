@@ -10,7 +10,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 
-import com.example.bubble.apps.App
+//import com.example.bubble.apps.App
 import com.example.bubble.databinding.ActivityMainBinding
 
 
